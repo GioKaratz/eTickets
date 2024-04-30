@@ -12,7 +12,7 @@ eTickets: Your go-to solution for seamless electronic ticket management. Built o
 
 ## Technologies
 
-List the technologies or frameworks used in project.
+Technologies and frameworks used in project:
 
 - .NET 8.0:
 - ASP.NET Core
