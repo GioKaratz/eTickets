@@ -1,6 +1,6 @@
 # eTickets  
 
-This ASP.NET Core application, built with the eTickets framework, focuses on managing and presenting electronic tickets. It leverages services for actors, producers, cinemas, movies, and orders, ensuring a comprehensive ticketing experience. The application incorporates secure authentication and authorization mechanisms through ASP.NET Core Identity and Cookie Authentication. The use of Entity Framework Core with SQL Server provides a robust data storage solution. Additionally, the implementation includes session management and seed data initialization for a seamless user experience
+This eTickets application, built with the ASP.NET Core framework, focuses on managing and presenting electronic tickets. It leverages services for actors, producers, cinemas, movies, and orders, ensuring a comprehensive ticketing experience. The application incorporates secure authentication and authorization mechanisms through ASP.NET Core Identity and Cookie Authentication. The use of Entity Framework Core with SQL Server provides a robust data storage solution. Additionally, the implementation includes session management and seed data initialization for a seamless user experience
 
 - [Introduction](#introduction)
 - [Technologies](#technologies)
